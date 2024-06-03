@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|c:\\projects\\projeto ii\\apcaminhosemmarte\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashDuplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:HashDuplo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:Cidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\GrafoBacktracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:GrafoBacktracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\BucketHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:BucketHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\IRegistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:IRegistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\ITabelaDeHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:ITabelaDeHash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashLinear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:HashLinear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashQuadratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BFF72FC-D969-44C6-9D55-90B066379B1F}|apCaminhosEmMarte.csproj|solutionrelative:HashQuadratico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{80c411e8-fd5e-4b16-914b-0d9d84172cc1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GrafoBacktracking.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\GrafoBacktracking.cs",
+              "RelativeDocumentMoniker": "GrafoBacktracking.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\GrafoBacktracking.cs",
+              "RelativeToolTip": "GrafoBacktracking.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAArwFcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BucketHash.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\BucketHash.cs",
+              "RelativeDocumentMoniker": "BucketHash.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\BucketHash.cs",
+              "RelativeToolTip": "BucketHash.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAqwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cidade.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Cidade.cs",
+              "RelativeDocumentMoniker": "Cidade.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Cidade.cs",
+              "RelativeToolTip": "Cidade.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwCEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRegistro.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\IRegistro.cs",
+              "RelativeDocumentMoniker": "IRegistro.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\IRegistro.cs",
+              "RelativeToolTip": "IRegistro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITabelaDeHash.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\ITabelaDeHash.cs",
+              "RelativeDocumentMoniker": "ITabelaDeHash.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\ITabelaDeHash.cs",
+              "RelativeToolTip": "ITabelaDeHash.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAzwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HashLinear.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashLinear.cs",
+              "RelativeDocumentMoniker": "HashLinear.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashLinear.cs",
+              "RelativeToolTip": "HashLinear.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAuwBgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HashQuadratico.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashQuadratico.cs",
+              "RelativeDocumentMoniker": "HashQuadratico.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashQuadratico.cs",
+              "RelativeToolTip": "HashQuadratico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashDuplo.cs",
+              "DocumentMoniker": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashDuplo.cs",
+              "RelativeDocumentMoniker": "HashDuplo.cs",
+              "ToolTip": "C:\\Projects\\Projeto II\\apCaminhosEmMarte\\HashDuplo.cs",
+              "RelativeToolTip": "HashDuplo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:39:39.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2269,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
